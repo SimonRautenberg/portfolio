@@ -5,5 +5,59 @@
         <description>Simon Rautenberg || Portfolio</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 05 Dec 2025 14:35:24 &#43;0100</lastBuildDate>
             <atom:link href="https://SimonRautenberg.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>text_chat</title>
+    <link>https://SimonRautenberg.github.io/portfolio/posts/text_chat/</link>
+    <pubDate>Fri, 05 Dec 2025 14:35:24 &#43;0100</pubDate>
+    <author>Simon Rautenberg</author>
+    <guid>https://SimonRautenberg.github.io/portfolio/posts/text_chat/</guid>
+    <description><![CDATA[<h2 id="project-overview">Project overview</h2>
+<p>This project is a text messenger that allows users to exchange messages between different browsers.
+Users need to log in because the messages are stored in a protected area.
+After logging in, each user receives a session ID to prevent unauthorized access.
+Messages are stored in the server&rsquo;s backend in a database.
+When the messenger loads, the browser requests all existing messages from the server.
+Whenever a user sends a message, it is immediately transmitted to the server.
+The browser periodically checks the server for new messages and receives them as soon as they are available.</p>]]></description>
+</item>
+<item>
+    <title>employee_list</title>
+    <link>https://SimonRautenberg.github.io/portfolio/posts/employee_list/</link>
+    <pubDate>Fri, 05 Dec 2025 14:35:24 &#43;0100</pubDate>
+    <author>Simon Rautenberg</author>
+    <guid>https://SimonRautenberg.github.io/portfolio/posts/employee_list/</guid>
+    <description><![CDATA[<h2 id="project-overview">Project overview</h2>
+<p>This project is a small CRUD application using PHP and MySQL.
+The PHP scripts dynamically create tables that display the stored data, in this case a list of employees.
+Users can create, read, update, and delete the displayed data.
+The project uses a singleton pattern.</p>
+<h2 id="used-technologies">Used technologies</h2>
+<ul>
+<li>PHP</li>
+<li>MySQL</li>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+<h2 id="screenshots">Screenshots</h2>
+<p></p>]]></description>
+</item>
+<item>
+    <title>mutant</title>
+    <link>https://SimonRautenberg.github.io/portfolio/posts/mutant/</link>
+    <pubDate>Fri, 05 Dec 2025 14:35:24 &#43;0100</pubDate>
+    <author>Simon Rautenberg</author>
+    <guid>https://SimonRautenberg.github.io/portfolio/posts/mutant/</guid>
+    <description><![CDATA[<h2 id="project-overview">Project overview</h2>
+<p>Mutant is an application that generates inspirational descriptions for the tabletop roleplaying game Mutant: Year Zero. In Mutant: Year Zero, players explore a post-apocalyptic wasteland called the &ldquo;Zone,&rdquo; sector by sector. The application can create Zone sectors with a single click, which is very handy during gameplay. It can also generate non-player characters (NPCs).</p>
+<h2 id="used-technologies">Used technologies</h2>
+<ul>
+<li>PHP</li>
+<li>JavaScript</li>
+<li>MySQL</li>
+<li>AJAX</li>
+<li>HTML</li>
+<li>CSS</li>
+</ul>]]></description>
+</item>
+</channel>
 </rss>
