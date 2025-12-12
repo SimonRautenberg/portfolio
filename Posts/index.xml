@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Simon Rautenberg Portfolio</title>
+        <link>https://SimonRautenberg.github.io/portfolio/posts/</link>
+        <description>All Posts | Simon Rautenberg Portfolio</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://SimonRautenberg.github.io/portfolio/posts/" rel="self" type="application/rss+xml" /></channel>
+</rss>

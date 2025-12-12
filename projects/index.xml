@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Simon Rautenberg Portfolio</title>
+    <link>https://SimonRautenberg.github.io/portfolio/projects/</link>
+    <description>Recent content in Projects on Simon Rautenberg Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Dec 2025 14:35:24 +0100</lastBuildDate>
+    <atom:link href="https://SimonRautenberg.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>text_chat</title>
+      <link>https://SimonRautenberg.github.io/portfolio/projects/text_chat/</link>
+      <pubDate>Fri, 05 Dec 2025 14:35:24 +0100</pubDate>
+      <guid>https://SimonRautenberg.github.io/portfolio/projects/text_chat/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project overview&lt;/h2&gt;&#xA;&lt;p&gt;This project is a text messenger that allows users to exchange messages between different browsers.&#xA;Users need to log in because the messages are stored in a protected area.&#xA;After logging in, each user receives a session ID to prevent unauthorized access.&#xA;Messages are stored in the server&amp;rsquo;s backend in a database.&#xA;When the messenger loads, the browser requests all existing messages from the server.&#xA;Whenever a user sends a message, it is immediately transmitted to the server.&#xA;The browser periodically checks the server for new messages and receives them as soon as they are available.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>employee_list</title>
+      <link>https://SimonRautenberg.github.io/portfolio/projects/employee_list/</link>
+      <pubDate>Fri, 05 Dec 2025 14:35:24 +0100</pubDate>
+      <guid>https://SimonRautenberg.github.io/portfolio/projects/employee_list/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project overview&lt;/h2&gt;&#xA;&lt;p&gt;This project is a small CRUD application using PHP and MySQL.&#xA;The PHP scripts dynamically create tables that display the stored data, in this case a list of employees.&#xA;Users can create, read, update, and delete the displayed data.&#xA;The project uses a singleton pattern.&lt;/p&gt;&#xA;&lt;h2 id=&#34;used-technologies&#34;&gt;Used technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;PHP&lt;/li&gt;&#xA;&lt;li&gt;MySQL&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img&#xD;&#xA;        class=&#34;lazyload&#34;&#xD;&#xA;        src=&#34;https://SimonRautenberg.github.io/portfolio/svg/loading.min.svg&#34;&#xD;&#xA;        data-src=&#34;https://SimonRautenberg.github.io/portfolio/projects/employee_list/company.png&#34;&#xD;&#xA;        data-srcset=&#34;https://SimonRautenberg.github.io/portfolio/projects/employee_list/company.png, https://SimonRautenberg.github.io/portfolio/projects/employee_list/company.png 1.5x, https://SimonRautenberg.github.io/portfolio/projects/employee_list/company.png 2x&#34;&#xD;&#xA;        data-sizes=&#34;auto&#34;&#xD;&#xA;        alt=&#34;/portfolio/projects/employee_list/company.png&#34;&#xD;&#xA;        title=&#34;employee_list&#34; width=&#34;877&#34; height=&#34;608&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>mutant</title>
+      <link>https://SimonRautenberg.github.io/portfolio/projects/mutant/</link>
+      <pubDate>Fri, 05 Dec 2025 14:35:24 +0100</pubDate>
+      <guid>https://SimonRautenberg.github.io/portfolio/projects/mutant/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project overview&lt;/h2&gt;&#xA;&lt;p&gt;Mutant is an application that generates inspirational descriptions for the tabletop roleplaying game Mutant: Year Zero. In Mutant: Year Zero, players explore a post-apocalyptic wasteland called the &amp;ldquo;Zone,&amp;rdquo; sector by sector. The application can create Zone sectors with a single click, which is very handy during gameplay. It can also generate non-player characters (NPCs).&lt;/p&gt;&#xA;&lt;h2 id=&#34;used-technologies&#34;&gt;Used technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;PHP&lt;/li&gt;&#xA;&lt;li&gt;JavaScript&lt;/li&gt;&#xA;&lt;li&gt;MySQL&lt;/li&gt;&#xA;&lt;li&gt;AJAX&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

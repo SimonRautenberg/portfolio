@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Simon Rautenberg Portfolio</title>
+    <link>http://localhost:1313/categories/markdown/</link>
+    <description>Recent content in Markdown on Simon Rautenberg Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2019 17:55:28 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/posts/employee_list/</link>
+      <pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate>
+      <guid>http://localhost:1313/posts/employee_list/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
